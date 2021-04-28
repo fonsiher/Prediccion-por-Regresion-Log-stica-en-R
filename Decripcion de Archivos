@@ -1,0 +1,4 @@
+El primer documento es el informe detallado de las acciones realizadas para la resolución del problema.
+EL 2do archivo es Dataset utilizado tipo CSV
+El 3er Archivo es la Resolución del problema mediante regresión logística en Lenguage R. 
+El 4to Archivo es un Notebook de Python de Solución de predicción del Dataset mediante Lógica Difusa (Sistema Experto).
